@@ -39,6 +39,7 @@ p{
 
 .wrapper-car:hover{
   box-shadow: 10px 10px 20px 10px #e6e6e6;
+  transition: 0.6s;
 }
 
 
