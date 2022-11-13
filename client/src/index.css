@@ -1,0 +1,44 @@
+.image-top{
+  object-fit: cover;
+}
+
+.car-image{
+  width: 100%;
+}
+
+.image-top{
+  object-fit: contain;
+}
+
+.content{
+  text-align: center;
+  font-weight: 500;
+  font-size: 16px;  
+  font-style:bold;
+}
+
+.btn-book{
+   
+  color: white;
+  padding: 5px 10px;
+  border-radius: 20px;
+  border:solid rgb(165, 165, 255) 1px;
+  font-size: 18px;
+}
+
+.btn-book:hover{
+  background-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255) !important;
+ 
+}
+
+p{
+  margin:0;
+
+}
+
+.wrapper-car:hover{
+  box-shadow: 10px 10px 20px 10px #e6e6e6;
+}
+
+
