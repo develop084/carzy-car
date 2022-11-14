@@ -26,7 +26,8 @@ function Login() {
             className="w-100"
             data-aos="slide-right"
             data-aos-duration="1500"
-            width="600" height="550"
+            width="600"
+            height="550"
             src="https://svgshare.com/i/g9N.svg"
           />
         </Col>
